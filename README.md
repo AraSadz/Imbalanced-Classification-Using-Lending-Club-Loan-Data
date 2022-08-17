@@ -10,7 +10,7 @@ In this notebook we explore different methodologies to tackle the imbalanced dat
 Table of Contents\
 Data Exploration\
 Classification Functions\
-\b  Logistic Regression\
+  Logistic Regression\
   Linear SVC\
   SVC with Kernel\
   Decision Tree\
