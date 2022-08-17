@@ -9,6 +9,7 @@ In this notebook we explore different methodologies to tackle the imbalanced dat
 
 Table of Contents\
 Data Exploration\
+\
 Classification Functions\
   Logistic Regression\
   Linear SVC\
@@ -18,8 +19,11 @@ Classification Functions\
   K Nearest Neighbours\
   Bagging Classifier\
   Gradient Boosting Classfier\
+  \
 Result Functions\
+\
 Class Weight\
+\
 Over Sampling\
   RandomOverSampler\
   ADASYN\
@@ -27,12 +31,14 @@ Over Sampling\
   K Means SMOTE\
   SVMSMOTE\
   Borderline SMOTE\
+  \
 Under Sampling\
   RandomUnderSampler\
   ClusterCentroids\
   NearMiss\
   TomekLinks\
   EditedNearestNeighbours\
+  \
 Combination of Over- and Under-Sampling Methods\
   SMOTETomek\
   SMOTEENN\
