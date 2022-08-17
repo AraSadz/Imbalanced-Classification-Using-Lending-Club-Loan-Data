@@ -10,8 +10,8 @@ In this notebook we explore different methodologies to tackle the imbalanced dat
 Table of Contents\
 Data Exploration\
 Classification Functions\
-\t  Logistic Regression\
-\t  Linear SVC\
+\b  Logistic Regression\
+  Linear SVC\
   SVC with Kernel\
   Decision Tree\
   Random Forest\
@@ -36,4 +36,4 @@ Under Sampling\
 Combination of Over- and Under-Sampling Methods\
   SMOTETomek\
   SMOTEENN\
-Final Results\
+Final Results
